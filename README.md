@@ -42,8 +42,8 @@ Knowing the total of a certain category of expenses is important when you want t
 
 ## ⭐ Credits
 
-* Jaycob
- (Lead Developer)
+* jaycob
+ (Lead)
 > Designed and implemented the core Python program
 
 > Developed main features including adding, viewing, calculating, filtering, and deleting expenses
