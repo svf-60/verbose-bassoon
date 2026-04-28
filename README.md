@@ -1,5 +1,6 @@
 # verbose-bassoon
 
+school thingy
 
 ## 📌 Expense Tracker
 This project is a Python-based Expense Tracker that allows users to add, view, filter, calculate, and delete expenses. The program uses **Python dictionaries** to store expense data such as category, amount, and date. The project was developed collaboratively using GitHub.
@@ -42,7 +43,7 @@ Knowing the total of a certain category of expenses is important when you want t
 
 ## ⭐ Credits
 
-* jaycob
+* j
  (Lead)
 > Designed and implemented the core Python program
 
@@ -52,7 +53,7 @@ Knowing the total of a certain category of expenses is important when you want t
 
 > Taught other groupmate on how to improve ReadMe
 
-* Muneeb
+* ######
  > Wrote and organized the README file
 
  > Documented project features, instructions, and reflection
